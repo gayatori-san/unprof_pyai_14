@@ -36,6 +36,16 @@ Measures the cosine of the angle between two vectors:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Requirements:
+```bash
+sentence-transformers>=2.2.0
+scikit-learn>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+```
 ```bash
 git clone https://github.com/gayatori-san/unprof_pyai_14
 ```
