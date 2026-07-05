@@ -31,11 +31,6 @@ Measures the cosine of the angle between two vectors:
 3. **Similarity**: Cosine similarity computed between all sentence pairs
 4. **Output**: Ranked list of most/least similar pairs + heatmap visualization
 
-## Run It
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Requirements:
 ```bash
@@ -45,6 +40,10 @@ pandas>=2.0.0
 numpy>=1.24.0
 matplotlib>=3.7.0
 seaborn>=0.12.0
+```
+## Run It
+```bash
+pip install -r requirements.txt
 ```
 ```bash
 git clone https://github.com/gayatori-san/unprof_pyai_14
