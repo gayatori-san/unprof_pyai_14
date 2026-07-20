@@ -46,7 +46,7 @@ seaborn>=0.12.0
 pip install -r requirements.txt
 ```
 ```bash
-git clone https://github.com/gayatori-san/unprof_pyai_14
+git clone https://github.com/gayatori-san/unprof_pyai_14.git
 ```
 ```bash
 python task14.py
